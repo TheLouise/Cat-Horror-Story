@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 62008040930e2ec4697f152088c0b51e
+timeCreated: 1506790079
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VTKS MINDFULNESS v2
+  fontNames:
+  - VTKS MINDFULNESS v2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
